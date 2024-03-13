@@ -93,6 +93,7 @@ const Carousel = ({ data, loading, endpoint, title }) => {
           </div>
         )}
       </ContentWrapper>
+      {/* wp-config.php  */}
     </div>
   );
 };
